@@ -1,0 +1,4 @@
+[submodule "sources/termux-packages"]
+	path = sources/termux-packages
+	url = https://github.com/xeffyr/termux-packages
+	branch = termux-x-packages

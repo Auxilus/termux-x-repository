@@ -1,0 +1,597 @@
+Package: dosbox
+Architecture: i686
+Installed-Size: 1852
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.74-1
+Description: Emulator with builtin DOS for running DOS Games
+Homepage: http://dosbox.sourceforge.net/
+Depends: libsdl, libsdl-net
+Filename: dists/termux/x-gui/binary-i686/dosbox_0.74-1_i686.deb
+Size: 553420
+SHA256: effa9ea3d0269d6ccdb62c41e13e5574eab59aacc9a4d31a219cfb3832aad3a3
+
+Package: fontutil
+Architecture: i686
+Installed-Size: 260
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.3.1
+Description: FIXME:Add description
+Homepage: https://www.x.org
+Filename: dists/termux/x-gui/binary-i686/fontutil_1.3.1_i686.deb
+Size: 22960
+SHA256: 66d5ae6d117207e67492de4749206a5f8b206e7eb1725ea77da4654a3292afe0
+
+Package: libfontenc-dev
+Architecture: i686
+Installed-Size: 12
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.3
+Description: Development files for libfontenc
+Homepage: https://www.x.org
+Depends: libfontenc
+Filename: dists/termux/x-gui/binary-i686/libfontenc-dev_1.1.3_i686.deb
+Size: 3120
+SHA256: cf142e2a1172937cf2c941d177aec953f0657ef261f7868f9488e1a9f1cfaba2
+
+Package: libfontenc
+Architecture: i686
+Installed-Size: 28
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.3
+Description: X11 font encoding library
+Homepage: https://www.x.org
+Depends: fontutil, x11-proto
+Filename: dists/termux/x-gui/binary-i686/libfontenc_1.1.3_i686.deb
+Size: 8712
+SHA256: ec9149cb0083faeccd2e5546658ea814d0727debb20ebe0fbb17f61b7f229cbb
+
+Package: libice-dev
+Architecture: i686
+Installed-Size: 52
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.8
+Description: Development files for libice
+Homepage: https://www.x.org
+Depends: libice
+Filename: dists/termux/x-gui/binary-i686/libice-dev_1.0.8_i686.deb
+Size: 7480
+SHA256: 82d04055f9529656c17e7d3e391eae47f91b735c6200fbb23e36c631046d93e0
+
+Package: libice
+Architecture: i686
+Installed-Size: 80
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.8
+Description: X11 Inter-Client Exchange library
+Homepage: https://www.x.org
+Depends: x11-proto, xtrans, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libice_1.0.8_i686.deb
+Size: 29080
+SHA256: b3075874d7af42128f54bd483bd9f6c432a22d1582698170dcaa308c172becec
+
+Package: libsdl-dev
+Architecture: i686
+Installed-Size: 1308
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.2.15
+Description: Development files for libsdl
+Homepage: https://www.libsdl.org
+Depends: libsdl
+Filename: dists/termux/x-gui/binary-i686/libsdl-dev_1.2.15_i686.deb
+Size: 107308
+SHA256: 1bfc1d0e37e504853aa4e5a07c6930d92fadcc2e2ea4b46d1e48ed12357088f7
+
+Package: libsdl-net-dev
+Architecture: i686
+Installed-Size: 24
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.2.8
+Description: Development files for libsdl-net
+Homepage: https://www.libsdl.org/projects/SDL_net/
+Depends: libsdl-net
+Filename: dists/termux/x-gui/binary-i686/libsdl-net-dev_1.2.8_i686.deb
+Size: 5588
+SHA256: d7b0004897e33d0155f32c2ca16712073173f7d6a42ca77d35e6eb79ec474832
+
+Package: libsdl-net
+Architecture: i686
+Installed-Size: 24
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.2.8
+Description: A small sample cross-platform networking library
+Homepage: https://www.libsdl.org/projects/SDL_net/
+Depends: libsdl
+Filename: dists/termux/x-gui/binary-i686/libsdl-net_1.2.8_i686.deb
+Size: 5776
+SHA256: 4f8e372812eb12bc23fefce2a23bf2e0e264adcf5bd3cf856854e47cd448f22d
+
+Package: libsdl
+Architecture: i686
+Installed-Size: 316
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.2.15
+Description: A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard
+Homepage: https://www.libsdl.org
+Depends: libx11, libxext, libxrender, pulseaudio
+Filename: dists/termux/x-gui/binary-i686/libsdl_1.2.15_i686.deb
+Size: 114768
+SHA256: 097c4af25e4d7bcb440b8cb8f641f791d729e7f0bcc006a384eccb61dd64a261
+
+Package: libsm-dev
+Architecture: i686
+Installed-Size: 28
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.2.1
+Description: Development files for libsm
+Homepage: https://www.x.org
+Depends: libsm
+Filename: dists/termux/x-gui/binary-i686/libsm-dev_1.2.1_i686.deb
+Size: 4312
+SHA256: 5b8cbad461abc5fa5fb252046a12cec1e67a53c6db3f0ea3f904c92b299525e8
+
+Package: libsm
+Architecture: i686
+Installed-Size: 36
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.2.1
+Description: X11 Session Management library
+Homepage: https://www.x.org
+Depends: libice, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libsm_1.2.1_i686.deb
+Size: 10452
+SHA256: 2fc7732324d1338d93a7509818b63b4a2dbfb26fb04409327641812a279e207b
+
+Package: libx11-dev
+Architecture: i686
+Installed-Size: 4748
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.6.4
+Description: Development files for libx11
+Homepage: 
+Depends: libx11
+Filename: dists/termux/x-gui/binary-i686/libx11-dev_1.6.4_i686.deb
+Size: 228284
+SHA256: 20521b27780e5310130233f45af0b1dd9a9954be78ea305ced16e752a6c63ee9
+
+Package: libx11
+Architecture: i686
+Installed-Size: 2904
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.6.4
+Description: X11 client-side library
+Homepage: 
+Depends: x11-proto, xtrans, libxcb, libandroid-support, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libx11_1.6.4_i686.deb
+Size: 576632
+SHA256: 26009e7551d3fe62b4735dfba0875510e7af2f58c081d4c001d71acd2f8401f2
+
+Package: libxau-dev
+Architecture: i686
+Installed-Size: 48
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.8
+Description: Development files for libxau
+Homepage: 
+Depends: libxau
+Filename: dists/termux/x-gui/binary-i686/libxau-dev_1.0.8_i686.deb
+Size: 4244
+SHA256: 333b9af674acc2cb307b48e287160a8d4a71c90d96862ce74e40e8532a3cd259
+
+Package: libxau
+Architecture: i686
+Installed-Size: 20
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.8
+Description: X11 authorisation library
+Homepage: 
+Depends: x11-proto
+Filename: dists/termux/x-gui/binary-i686/libxau_1.0.8_i686.deb
+Size: 3832
+SHA256: d12d730a141c4a37f6ec420f2d920afa39cddf9140b95035e5ceaaa015f58917
+
+Package: libxaw-dev
+Architecture: i686
+Installed-Size: 444
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.13
+Description: Development files for libxaw
+Homepage: https://www.x.org
+Depends: libxaw
+Filename: dists/termux/x-gui/binary-i686/libxaw-dev_1.0.13_i686.deb
+Size: 41652
+SHA256: fc4b79efb8eaa7a72c1c67105ccbacdaf4236b1f4b588d998ab011e119066133
+
+Package: libxaw
+Architecture: i686
+Installed-Size: 572
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.13
+Description: X11 Athena Widget library
+Homepage: https://www.x.org
+Depends: libxmu, libxpm, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libxaw_1.0.13_i686.deb
+Size: 164916
+SHA256: a1fa7feafb44cf19151225bb9367a9bd1516f44838feddbe9bbc24899bc7292c
+
+Package: libxcb-dev
+Architecture: i686
+Installed-Size: 11192
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.12
+Description: Development files for libxcb
+Homepage: 
+Depends: libxcb
+Filename: dists/termux/x-gui/binary-i686/libxcb-dev_1.12_i686.deb
+Size: 240280
+SHA256: 3dfdc6b24bb16e5b8f7ef9fd1e067ba7b9475c5f38f783a48bf495a754143993
+
+Package: libxcb
+Architecture: i686
+Installed-Size: 600
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.12
+Description: X11 client-side library
+Homepage: 
+Depends: xcbproto, libxau, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libxcb_1.12_i686.deb
+Size: 82652
+SHA256: ba402c2c731489770a9d3ec1240c3182a84e80489359f047895b2a0963da1637
+
+Package: libxdamage-dev
+Architecture: i686
+Installed-Size: 8
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.4
+Description: Development files for libxdamage
+Homepage: https://www.x.org
+Depends: libxdamage
+Filename: dists/termux/x-gui/binary-i686/libxdamage-dev_1.1.4_i686.deb
+Size: 2164
+SHA256: ad73719bde9e9aa3f6e1b9e96d6ba4ea07d45416935cfa530a7730cc0661bf92
+
+Package: libxdamage
+Architecture: i686
+Installed-Size: 20
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.4
+Description: X11 damaged region extension library
+Homepage: https://www.x.org
+Depends: libxfixes, x11-proto
+Filename: dists/termux/x-gui/binary-i686/libxdamage_1.1.4_i686.deb
+Size: 3172
+SHA256: bdee0c0cee3cd5568b4c6a0e054f8f809cfd89c4649c53a28fb9f2709fd9af78
+
+Package: libxext-dev
+Architecture: i686
+Installed-Size: 372
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.3.1
+Description: Development files for libxext
+Homepage: https://www.x.org
+Depends: libxext
+Filename: dists/termux/x-gui/binary-i686/libxext-dev_1.3.1_i686.deb
+Size: 25068
+SHA256: 39ce58f5958989fc607dbda6b7482fb6f7e5c34cb1ce3c87db533e83b2e3b396
+
+Package: libxext
+Architecture: i686
+Installed-Size: 56
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.3.1
+Description: X11 miscellaneous extensions library
+Homepage: https://www.x.org
+Depends: x11-proto, libx11, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libxext_1.3.1_i686.deb
+Size: 16440
+SHA256: 9a02e9dce68ff40931b6adc6371cbf3f7d3996d9183e42a47f56b338f1fb84a8
+
+Package: libxfixes-dev
+Architecture: i686
+Installed-Size: 16
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.0.3
+Description: Development files for libxfixes
+Homepage: https://www.x.org
+Depends: libxfixes
+Filename: dists/termux/x-gui/binary-i686/libxfixes-dev_5.0.3_i686.deb
+Size: 4200
+SHA256: 8dbd61122d4e8466dcc11d95091a6908ec9772d41bdb9b0700a012a9f85c9c2f
+
+Package: libxfixes
+Architecture: i686
+Installed-Size: 24
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.0.3
+Description: FIXME:Add description
+Homepage: https://www.x.org
+Depends: xorg-util-macros, libx11
+Filename: dists/termux/x-gui/binary-i686/libxfixes_5.0.3_i686.deb
+Size: 5252
+SHA256: 69fc8427f1b3947e6ccb9155fb25ecf1435d2c3d238fad09a8c62304882f7553
+
+Package: libxfont2-dev
+Architecture: i686
+Installed-Size: 12
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.0.1
+Description: Development files for libxfont2
+Homepage: 
+Depends: libxfont2
+Filename: dists/termux/x-gui/binary-i686/libxfont2-dev_2.0.1_i686.deb
+Size: 3028
+SHA256: 65a7ee1a62e6128536a1501bd04a6f51df3f87992b7e23424016970d80f9ef2f
+
+Package: libxfont2
+Architecture: i686
+Installed-Size: 180
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.0.1
+Description: X11 font rasterisation library
+Homepage: 
+Depends: freetype, x11-proto, libfontenc, xtrans, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libxfont2_2.0.1_i686.deb
+Size: 85424
+SHA256: 3b9d90fd699103332d056d9986d1d2d7ba415d8371e3bdb7f5dab0b8d8fef18e
+
+Package: libxft-dev
+Architecture: i686
+Installed-Size: 48
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.3.2
+Description: Development files for libxft
+Homepage: https://www.x.org
+Depends: libxft
+Filename: dists/termux/x-gui/binary-i686/libxft-dev_2.3.2_i686.deb
+Size: 9384
+SHA256: 093c105ba59b9371a89b5448a9a8cf8763a6cbae75a32958ff0f38a0b6416545
+
+Package: libxft
+Architecture: i686
+Installed-Size: 68
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.3.2
+Description: FreeType-based font drawing library for X
+Homepage: https://www.x.org
+Depends: libxrender, fontconfig
+Filename: dists/termux/x-gui/binary-i686/libxft_2.3.2_i686.deb
+Size: 25348
+SHA256: 861807a93378047193d7c9b6d5632a527ec0cf8777d72eb427af496f4cda903d
+
+Package: libxinerama-dev
+Architecture: i686
+Installed-Size: 36
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.3
+Description: Development files for libxinerama
+Homepage: https://www.x.org
+Depends: libxinerama
+Filename: dists/termux/x-gui/binary-i686/libxinerama-dev_1.1.3_i686.deb
+Size: 4132
+SHA256: a1945667c80fda7280164b586300e4419d0adf3ea329eefb2a2f264873962b8f
+
+Package: libxinerama
+Architecture: i686
+Installed-Size: 20
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.3
+Description: X11 Xinerama extension library
+Homepage: https://www.x.org
+Depends: libxext, x11-proto
+Filename: dists/termux/x-gui/binary-i686/libxinerama_1.1.3_i686.deb
+Size: 3080
+SHA256: 04bc9e89de84e51a3b18befb15c6b2f1fa8ebea0decef97b5d50ae5b2b356a8b
+
+Package: libxkbfile-dev
+Architecture: i686
+Installed-Size: 52
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.9
+Description: Development files for libxkbfile
+Homepage: 
+Depends: libxkbfile
+Filename: dists/termux/x-gui/binary-i686/libxkbfile-dev_1.0.9_i686.deb
+Size: 7632
+SHA256: 9066851063f1c4f2603be00afa06c15cdeb0d90564682783dcb00ca5e98964d6
+
+Package: libxkbfile
+Architecture: i686
+Installed-Size: 120
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.9
+Description: X11 keyboard file manipulation library
+Homepage: 
+Depends: libx11, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libxkbfile_1.0.9_i686.deb
+Size: 48256
+SHA256: 2a30267c20f988dd26de1da64262f6aa380b5a4a80c8f375ea1e17ff9a3180a5
+
+Package: libxmu-dev
+Architecture: i686
+Installed-Size: 120
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.1
+Description: Development files for libxmu
+Homepage: https://www.x.org
+Depends: libxmu
+Filename: dists/termux/x-gui/binary-i686/libxmu-dev_1.1.1_i686.deb
+Size: 11996
+SHA256: fd8ac4f4fc2f02c8eb695b8c96ca4653801da1cb5af91f46fba597a29bf2125d
+
+Package: libxmu
+Architecture: i686
+Installed-Size: 104
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.1
+Description: X11 miscellaneous micro-utility library
+Homepage: https://www.x.org
+Depends: libxt, libxext, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libxmu_1.1.1_i686.deb
+Size: 34012
+SHA256: b08afd9361239298f585499d3df27acbf2acd4416cc3fedc70763f6669cf5470
+
+Package: libxpm-dev
+Architecture: i686
+Installed-Size: 20
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.5.12
+Description: Development files for libxpm
+Homepage: https://www.x.org
+Depends: libxpm
+Filename: dists/termux/x-gui/binary-i686/libxpm-dev_3.5.12_i686.deb
+Size: 5068
+SHA256: 73c6eeeb0c6f7b3ba7232454971e8993abd2b700659add89bf004f109d7a0038
+
+Package: libxpm
+Architecture: i686
+Installed-Size: 108
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.5.12
+Description: X11 pixmap library
+Homepage: https://www.x.org
+Depends: libxt, libxext, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libxpm_3.5.12_i686.deb
+Size: 34052
+SHA256: 32b8039049c81f355b58eee0ca89d0f579f0c1c8ea4ad0297132d9984619f52f
+
+Package: libxrender-dev
+Architecture: i686
+Installed-Size: 20
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.9.10
+Description: Development files for libxrender
+Homepage: https://www.x.org
+Depends: libxrender
+Filename: dists/termux/x-gui/binary-i686/libxrender-dev_0.9.10_i686.deb
+Size: 4028
+SHA256: a469275fc70cdcd125719f3a9fdc45764e99247b984c5e7066c570162e41b08a
+
+Package: libxrender
+Architecture: i686
+Installed-Size: 36
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.9.10
+Description: X Rendering Extension client library
+Homepage: https://www.x.org
+Depends: libx11, x11-proto
+Filename: dists/termux/x-gui/binary-i686/libxrender_0.9.10_i686.deb
+Size: 11304
+SHA256: ae865ff75e002726860677d2c2b2d09d51e3b593f56f06056268136ce166b4a0
+
+Package: libxt-dev
+Architecture: i686
+Installed-Size: 1672
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.3
+Description: Development files for libxt
+Homepage: https://www.x.org
+Depends: libxt
+Filename: dists/termux/x-gui/binary-i686/libxt-dev_1.1.3_i686.deb
+Size: 79048
+SHA256: 9900435908d509c096ddab2b3657fb2e7c83aa6dd5df2e8bf3dc96dda716e489
+
+Package: libxt
+Architecture: i686
+Installed-Size: 264
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.3
+Description: X11 toolkit intrinsics library
+Homepage: https://www.x.org
+Depends: libx11, libsm, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/libxt_1.1.3_i686.deb
+Size: 105232
+SHA256: 580693378c9596cb0f1c8e60f69ba36068cbde58389d36fb8582f0448d0e78cd
+
+Package: qemu-system
+Architecture: i686
+Installed-Size: 40216
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.10.1-2
+Description: A generic and open source machine emulator and virtualizer
+Homepage: https://www.qemu.org
+Depends: glib, libandroid-support, libbz2, libcurl, libgnutls, liblzo, libnettle, libpixman, libpng, libsdl, libutil, ncurses
+Filename: dists/termux/x-gui/binary-i686/qemu-system_2.10.1-2_i686.deb
+Size: 6871528
+SHA256: 8a529b86ac5370608c1dca8a21aea547185beac80124753968e5a82e4f3b57ac
+
+Package: tigervnc
+Architecture: i686
+Installed-Size: 2620
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.8.0
+Description: Suite of VNC servers. Based on the VNC 4 branch of TightVNC.
+Homepage: http://www.tigervnc.org
+Depends: gettext, libandroid-shmem, libgcrypt, libgnutls, libjpeg-turbo, perl, libpixman, libx11, libxfont2, x11-proto, xorg-server, xorg-xauth, xtrans, xorg-util-macros, libxinerama, libxdamage
+Filename: dists/termux/x-gui/binary-i686/tigervnc_1.8.0_i686.deb
+Size: 784952
+SHA256: 28869afd2a83c0461a60b91b347cdbf8aa10bcf607df622cdf6c58e136eeb515
+
+Package: xcbproto
+Architecture: i686
+Installed-Size: 972
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.12
+Description: XML-XCB protocol descriptions
+Homepage: https://www.x.org
+Filename: dists/termux/x-gui/binary-i686/xcbproto_1.12_i686.deb
+Size: 98532
+SHA256: 167f7afab89536998594ce0b578365de80a521207d98c961571b9f6df03d80a2
+
+Package: xclock
+Architecture: i686
+Installed-Size: 60
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.7
+Description: FIXME:Add description
+Homepage: https://www.x.org
+Depends: libx11, libxmu, libxaw, libxkbfile, libxrender, libxft, libandroid-support, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/xclock_1.0.7_i686.deb
+Size: 21776
+SHA256: d7e207db86ccaf2fed88e7bf08c552dd59773850b45d5c5bcb1eb2f9f475ae00
+
+Package: xorg-server
+Architecture: i686
+Installed-Size: 1288
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.19.1
+Description: FIXME:Add description
+Homepage: 
+Depends: libandroid-shmem, libx11, libxfont2, libxkbfile, libxau, libpixman, openssl, xorg-xkbcomp, libxinerama
+Filename: dists/termux/x-gui/binary-i686/xorg-server_1.19.1_i686.deb
+Size: 530676
+SHA256: c61cdd76341181084c85969b336f960d6d4e6673dce003d1d895fdb0decc4274
+
+Package: xorg-xauth
+Architecture: i686
+Installed-Size: 44
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.10
+Description: X.Org authorization settings program
+Homepage: https://xorg.freedesktop.org
+Depends: libxmu, xorg-util-macros
+Filename: dists/termux/x-gui/binary-i686/xorg-xauth_1.0.10_i686.deb
+Size: 16884
+SHA256: e26cdd00db06f570c9bf789e430d4cca9471e5aa36810ae8905ba8e71931557c
+
+Package: xorg-xkbcomp
+Architecture: i686
+Installed-Size: 176
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.4.0
+Description: FIXME:Add description
+Homepage: https://www.x.org
+Depends: libxkbfile, xkeyboard-config
+Filename: dists/termux/x-gui/binary-i686/xorg-xkbcomp_1.4.0_i686.deb
+Size: 67628
+SHA256: c3709d0eb8a55b9f6503a6ee0f10e7c6d7c5379f44ecb1c6472efc939e56142b
+
+Package: xtrans
+Architecture: i686
+Installed-Size: 220
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.3.5
+Description: X transport library
+Homepage: https://www.x.org
+Filename: dists/termux/x-gui/binary-i686/xtrans_1.3.5_i686.deb
+Size: 35844
+SHA256: 32bcaac5f9ac1634b9ab03da8dbd346e9f3f0fb6c8ab33c07c77d1e408f48436
+

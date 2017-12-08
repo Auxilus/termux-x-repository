@@ -1,0 +1,34 @@
+Package: x11-proto
+Architecture: all
+Installed-Size: 1304
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.19.1
+Description: X11 headers
+Homepage: https://www.x.org
+Depends: xorg-util-macros
+Filename: dists/termux/x-gui/binary-all/x11-proto_1.19.1_all.deb
+Size: 143856
+SHA256: dcfbe35a7ae4972e2c01a0c3d3c83e26bf7413e8088c1e833b30dcb985630fac
+
+Package: xkeyboard-config
+Architecture: all
+Installed-Size: 3560
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.20
+Description: FIXME:Add description
+Homepage: https://www.x.org
+Filename: dists/termux/x-gui/binary-all/xkeyboard-config_2.20_all.deb
+Size: 294752
+SHA256: 7fb5304442e5735310cdf7091758ba7a9306dcdbfceba69f22761a3f0b9bb909
+
+Package: xorg-util-macros
+Architecture: all
+Installed-Size: 92
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.19.1
+Description: X.Org Autotools macros
+Homepage: https://www.x.org
+Filename: dists/termux/x-gui/binary-all/xorg-util-macros_1.19.1_all.deb
+Size: 21376
+SHA256: d0e9c8af65e2fcccb417678fe64c4c15efb7c3d3d2385b777ce7ab898f0cbaab
+
