@@ -552,13 +552,13 @@ Package: the-powder-toy
 Architecture: aarch64
 Installed-Size: 976
 Maintainer: Fredrik Fornwall @fornwall
-Version: 83.0.205-legacy-1
+Version: 83.0.205-legacy-2
 Description: The Powder Toy is a free physics sandbox game
 Homepage: http://powdertoy.co.uk/
 Depends: fftw, libbz2, liblua51, libsdl, libx11
-Filename: dists/termux/x-gui/binary-aarch64/the-powder-toy_83.0.205-legacy-1_aarch64.deb
-Size: 241968
-SHA256: b90eb75043c48c31e38526c826141bf96f4d5ed9af9b055bfdc4fe02a90645d0
+Filename: dists/termux/x-gui/binary-aarch64/the-powder-toy_83.0.205-legacy-2_aarch64.deb
+Size: 241956
+SHA256: ab7c12defe4af7ab2785017bdfc695115444e09e17e68ab0e9a59f0cfa78dd09
 
 Package: tigervnc
 Architecture: aarch64

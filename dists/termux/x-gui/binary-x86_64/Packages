@@ -552,13 +552,13 @@ Package: the-powder-toy
 Architecture: x86_64
 Installed-Size: 1060
 Maintainer: Fredrik Fornwall @fornwall
-Version: 83.0.205-legacy-1
+Version: 83.0.205-legacy-2
 Description: The Powder Toy is a free physics sandbox game
 Homepage: http://powdertoy.co.uk/
 Depends: fftw, libbz2, liblua51, libsdl, libx11
-Filename: dists/termux/x-gui/binary-x86_64/the-powder-toy_83.0.205-legacy-1_x86_64.deb
-Size: 284796
-SHA256: d2b0025d1f6452facb5595372d64cf97f14110e3fce12f430b207e0f6ab6771b
+Filename: dists/termux/x-gui/binary-x86_64/the-powder-toy_83.0.205-legacy-2_x86_64.deb
+Size: 284776
+SHA256: e2e9f491421a5580d5ebf2b56dc75e6cfefb1b3a293b114527f100e9d1853e31
 
 Package: tigervnc
 Architecture: x86_64
