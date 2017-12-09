@@ -73,24 +73,24 @@ Package: liblua51-dev
 Architecture: arm
 Installed-Size: 52
 Maintainer: Fredrik Fornwall @fornwall
-Version: 5.1.5-1
+Version: 5.1.5-2
 Description: Development files for liblua51
 Homepage: https://www.lua.org/
 Depends: liblua51
-Filename: dists/termux/x-gui/binary-arm/liblua51-dev_5.1.5-1_arm.deb
+Filename: dists/termux/x-gui/binary-arm/liblua51-dev_5.1.5-2_arm.deb
 Size: 12152
-SHA256: f0e9a70119a30c1b257d2b453327972f8574dbb2a539786f514d5dfe433354c1
+SHA256: fb77633d0ef68b418282149f8cef9034b1d360dab122ee4df895606ec9c32114
 
 Package: liblua51
 Architecture: arm
 Installed-Size: 108
 Maintainer: Fredrik Fornwall @fornwall
-Version: 5.1.5-1
+Version: 5.1.5-2
 Description: Shared library for the Lua interpreter (v5.1)
 Homepage: https://www.lua.org/
-Filename: dists/termux/x-gui/binary-arm/liblua51_5.1.5-1_arm.deb
-Size: 49992
-SHA256: 26c5d7ca3a7e1837a439d63a7b6b453a024164b887dbad243cbf608ed7dc2791
+Filename: dists/termux/x-gui/binary-arm/liblua51_5.1.5-2_arm.deb
+Size: 49884
+SHA256: 7b8f7b50ebdbe7a7bc0ae77f05ab3826f82dbb2185519f5fcc10ea244b405be3
 
 Package: libsdl-dev
 Architecture: arm
@@ -528,13 +528,13 @@ Package: lua51
 Architecture: arm
 Installed-Size: 176
 Maintainer: Fredrik Fornwall @fornwall
-Version: 5.1.5-1
+Version: 5.1.5-2
 Description: Simple, extensible, embeddable programming language
 Homepage: https://www.lua.org/
 Depends: readline
-Filename: dists/termux/x-gui/binary-arm/lua51_5.1.5-1_arm.deb
-Size: 59540
-SHA256: e966315bf8a81635e6a6dd178bafce5c9b543b851bf33409faf3f5d7b9fdaf4a
+Filename: dists/termux/x-gui/binary-arm/lua51_5.1.5-2_arm.deb
+Size: 59380
+SHA256: 9a3dae7d4c9d79bde210efbc8fbc9890fb66c24f0f29669cece363c9d0852e6a
 
 Package: qemu-system
 Architecture: arm
