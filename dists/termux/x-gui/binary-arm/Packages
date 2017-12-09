@@ -69,6 +69,29 @@ Filename: dists/termux/x-gui/binary-arm/libice_1.0.8_arm.deb
 Size: 25864
 SHA256: 42c904493064868343216220d7b5c6d7fd40543c0eb0dad9404c0db656ad31d1
 
+Package: liblua51-dev
+Architecture: arm
+Installed-Size: 52
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Development files for liblua51
+Homepage: https://www.lua.org/
+Depends: liblua51
+Filename: dists/termux/x-gui/binary-arm/liblua51-dev_5.1.5-1_arm.deb
+Size: 12152
+SHA256: f0e9a70119a30c1b257d2b453327972f8574dbb2a539786f514d5dfe433354c1
+
+Package: liblua51
+Architecture: arm
+Installed-Size: 108
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Shared library for the Lua interpreter (v5.1)
+Homepage: https://www.lua.org/
+Filename: dists/termux/x-gui/binary-arm/liblua51_5.1.5-1_arm.deb
+Size: 49992
+SHA256: 26c5d7ca3a7e1837a439d63a7b6b453a024164b887dbad243cbf608ed7dc2791
+
 Package: libsdl-dev
 Architecture: arm
 Installed-Size: 1308
@@ -501,6 +524,18 @@ Filename: dists/termux/x-gui/binary-arm/libxt_1.1.3_arm.deb
 Size: 98628
 SHA256: eec56984895169964435b1b022b11a423dc72061600df46caf175ba3f8caa555
 
+Package: lua51
+Architecture: arm
+Installed-Size: 176
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Simple, extensible, embeddable programming language
+Homepage: https://www.lua.org/
+Depends: readline
+Filename: dists/termux/x-gui/binary-arm/lua51_5.1.5-1_arm.deb
+Size: 59540
+SHA256: e966315bf8a81635e6a6dd178bafce5c9b543b851bf33409faf3f5d7b9fdaf4a
+
 Package: qemu-system
 Architecture: arm
 Installed-Size: 35128
@@ -512,6 +547,18 @@ Depends: glib, libandroid-support, libbz2, libcurl, libgnutls, liblzo, libnettle
 Filename: dists/termux/x-gui/binary-arm/qemu-system_2.10.1-2_arm.deb
 Size: 6593304
 SHA256: 8fdcb79cbec78ae61692f93eeb6ddfb658ce3a775e97714467c2c2bb5a6d5ccc
+
+Package: the-powder-toy
+Architecture: arm
+Installed-Size: 1048
+Maintainer: Fredrik Fornwall @fornwall
+Version: 83.0.205-legacy-1
+Description: The Powder Toy is a free physics sandbox game
+Homepage: http://powdertoy.co.uk/
+Depends: fftw, libbz2, liblua51, libsdl, libx11
+Filename: dists/termux/x-gui/binary-arm/the-powder-toy_83.0.205-legacy-1_arm.deb
+Size: 271060
+SHA256: 3e0d8f6dad59f04ab2ef3316a7b93310b9e6c38410884a8224d009f665405660
 
 Package: tigervnc
 Architecture: arm

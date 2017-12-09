@@ -69,6 +69,29 @@ Filename: dists/termux/x-gui/binary-i686/libice_1.0.8_i686.deb
 Size: 29080
 SHA256: b3075874d7af42128f54bd483bd9f6c432a22d1582698170dcaa308c172becec
 
+Package: liblua51-dev
+Architecture: i686
+Installed-Size: 52
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Development files for liblua51
+Homepage: https://www.lua.org/
+Depends: liblua51
+Filename: dists/termux/x-gui/binary-i686/liblua51-dev_5.1.5-1_i686.deb
+Size: 12156
+SHA256: a54bbf046a1efa063f2fa15be99fe0f4e552c8ffd0ec80e225b9121b96a555bf
+
+Package: liblua51
+Architecture: i686
+Installed-Size: 140
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Shared library for the Lua interpreter (v5.1)
+Homepage: https://www.lua.org/
+Filename: dists/termux/x-gui/binary-i686/liblua51_5.1.5-1_i686.deb
+Size: 55732
+SHA256: 8ec34ceb5cf9b82d6049eda76dc226f42c69ae243d6d51f26a255b0173247836
+
 Package: libsdl-dev
 Architecture: i686
 Installed-Size: 1308
@@ -501,6 +524,18 @@ Filename: dists/termux/x-gui/binary-i686/libxt_1.1.3_i686.deb
 Size: 105232
 SHA256: 580693378c9596cb0f1c8e60f69ba36068cbde58389d36fb8582f0448d0e78cd
 
+Package: lua51
+Architecture: i686
+Installed-Size: 228
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Simple, extensible, embeddable programming language
+Homepage: https://www.lua.org/
+Depends: readline
+Filename: dists/termux/x-gui/binary-i686/lua51_5.1.5-1_i686.deb
+Size: 67680
+SHA256: 49cf482c820cb770460a5fb6d8755d330aba06065951db3b80b9c953422b4e9a
+
 Package: qemu-system
 Architecture: i686
 Installed-Size: 40216
@@ -512,6 +547,18 @@ Depends: glib, libandroid-support, libbz2, libcurl, libgnutls, liblzo, libnettle
 Filename: dists/termux/x-gui/binary-i686/qemu-system_2.10.1-2_i686.deb
 Size: 6871528
 SHA256: 8a529b86ac5370608c1dca8a21aea547185beac80124753968e5a82e4f3b57ac
+
+Package: the-powder-toy
+Architecture: i686
+Installed-Size: 1016
+Maintainer: Fredrik Fornwall @fornwall
+Version: 83.0.205-legacy-1
+Description: The Powder Toy is a free physics sandbox game
+Homepage: http://powdertoy.co.uk/
+Depends: fftw, libbz2, liblua51, libsdl, libx11
+Filename: dists/termux/x-gui/binary-i686/the-powder-toy_83.0.205-legacy-1_i686.deb
+Size: 262908
+SHA256: 98019f34d4d6cbffd8e4fefb6d67138666c6d55a1868dde8be4af5be97ccf7cf
 
 Package: tigervnc
 Architecture: i686

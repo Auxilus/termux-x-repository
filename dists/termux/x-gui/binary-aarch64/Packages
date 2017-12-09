@@ -69,6 +69,29 @@ Filename: dists/termux/x-gui/binary-aarch64/libice_1.0.8_aarch64.deb
 Size: 26500
 SHA256: 0630f38b7d8d38b68877605ac29ae0a32948ec2030310ebd4b358c3a075fb5d1
 
+Package: liblua51-dev
+Architecture: aarch64
+Installed-Size: 52
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Development files for liblua51
+Homepage: https://www.lua.org/
+Depends: liblua51
+Filename: dists/termux/x-gui/binary-aarch64/liblua51-dev_5.1.5-1_aarch64.deb
+Size: 12160
+SHA256: 65c48be3c2b872e824ec7781a4191037b70b221fc229f8543f0509cdf75ad87f
+
+Package: liblua51
+Architecture: aarch64
+Installed-Size: 148
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Shared library for the Lua interpreter (v5.1)
+Homepage: https://www.lua.org/
+Filename: dists/termux/x-gui/binary-aarch64/liblua51_5.1.5-1_aarch64.deb
+Size: 49740
+SHA256: 3311fd5a7c0015d688ca0e685125421c8a51772b1401bdc5277fec95fa9fe9ef
+
 Package: libsdl-dev
 Architecture: aarch64
 Installed-Size: 1308
@@ -501,6 +524,18 @@ Filename: dists/termux/x-gui/binary-aarch64/libxt_1.1.3_aarch64.deb
 Size: 96636
 SHA256: a9ae5a5bbf7ccbd75ad1cfa0706b7286599190e6500db93803aab0da447437c8
 
+Package: lua51
+Architecture: aarch64
+Installed-Size: 248
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1.5-1
+Description: Simple, extensible, embeddable programming language
+Homepage: https://www.lua.org/
+Depends: readline
+Filename: dists/termux/x-gui/binary-aarch64/lua51_5.1.5-1_aarch64.deb
+Size: 60876
+SHA256: ba3d94bd247d517ef7b35c602d4231f980e4bede94889a6a360a0129b6010919
+
 Package: qemu-system
 Architecture: aarch64
 Installed-Size: 48160
@@ -512,6 +547,18 @@ Depends: glib, libandroid-support, libbz2, libcurl, libgnutls, liblzo, libnettle
 Filename: dists/termux/x-gui/binary-aarch64/qemu-system_2.10.1-2_aarch64.deb
 Size: 9753520
 SHA256: 41aa34de7703f0f3f91b8008c976eef3b99f1e79430cc92f6c03933dfeecd2f2
+
+Package: the-powder-toy
+Architecture: aarch64
+Installed-Size: 976
+Maintainer: Fredrik Fornwall @fornwall
+Version: 83.0.205-legacy-1
+Description: The Powder Toy is a free physics sandbox game
+Homepage: http://powdertoy.co.uk/
+Depends: fftw, libbz2, liblua51, libsdl, libx11
+Filename: dists/termux/x-gui/binary-aarch64/the-powder-toy_83.0.205-legacy-1_aarch64.deb
+Size: 241968
+SHA256: b90eb75043c48c31e38526c826141bf96f4d5ed9af9b055bfdc4fe02a90645d0
 
 Package: tigervnc
 Architecture: aarch64

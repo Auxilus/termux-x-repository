@@ -3,15 +3,15 @@ Version: 1
 Architectures: all aarch64 arm i686 x86_64
 Description: a repository of X/GUI packages for Termux
 Suite: termux
-Date: Fri, 08 Dec 2017 22:17:36 +0000
+Date: Sat, 09 Dec 2017 13:36:02 +0000
 SHA256:
  ab1a9d166ea5648c31f8845960fe69651bbd41b1fd3e12917a14f2558eac6980 1022 x-gui/binary-all/Packages
  a8d38532549c0b3be57b4aec52acc55f9f188d95f3c3c5a7e6d1afd9cdd4708e 536 x-gui/binary-all/Packages.xz
- adb2835d1d144f7aaebd66b6cde30b355661323d9221c5df2ea23d43a0e0da94 19046 x-gui/binary-aarch64/Packages
- 5efb2497804c5d41f14d859ad892db2a8ef5e9135b4ab4c95ed833983f3f3f96 4288 x-gui/binary-aarch64/Packages.xz
- d360ccdd8be658ffb0eb49c29242f6a59912891e9aaf4499324e7954c3c2969f 18444 x-gui/binary-arm/Packages
- 61fc087d92965e881eedb0294290e99915a6ac040d53a1d938a9d1d41cb8d2d5 4260 x-gui/binary-arm/Packages.xz
- 175e9dc484e6a9647ba2e0e5db3d7cf317c563afec0f11dd64a0f1f9c6cf2423 18598 x-gui/binary-i686/Packages
- b8b90bb5722ee9560833d9f18bc0b26bdcc7c68e95b80de4e1558d9980d6365e 4276 x-gui/binary-i686/Packages.xz
- 2f5d62028edb3a41e60bbfc0e72c8c8141af7a99ffc619458717993c746949e8 18900 x-gui/binary-x86_64/Packages
- 9937676b73376c9c1f6f265b11feed325795df1df974f8829c986cf1d3bbb856 4296 x-gui/binary-x86_64/Packages.xz
+ 5206b36506f3a830f983309b4f8bede053d99c873decb16eec8da89f485b3894 20618 x-gui/binary-aarch64/Packages
+ f2d313bacba00cf9757c31fa3d03040ab31a04776ecb8f30bbd6e22097d86623 4684 x-gui/binary-aarch64/Packages.xz
+ 05605f827b273ae35f2f252bcc263ce1634c0be6e30c78b709132d667d0f1217 19969 x-gui/binary-arm/Packages
+ ddda2de124b9b549d4b0240b28fa0282defe6d2d12482226fabc53061c9114b5 4664 x-gui/binary-arm/Packages.xz
+ 3a6744102710e50289e486a4e944f6ee69913dc2fd41067d6a7d9afccd6b7627 20135 x-gui/binary-i686/Packages
+ 5babb4d7b970d0c416243a5363770e202187ab071d7cb50bc894943caad4f5bd 4684 x-gui/binary-i686/Packages.xz
+ 87f009dfa7de3ded5e0abb29c8ab83d13acd9bd4fc6339eee677927fd890b864 20461 x-gui/binary-x86_64/Packages
+ 83f4d4616baf9d5890b87cf34b6f1c2ad70bb621906c846a15b6708e58102176 4696 x-gui/binary-x86_64/Packages.xz
