@@ -34,6 +34,10 @@ Then update apt lists:
 apt update
 ```
 
+## Note
+This repository uses Github Pages. Since Github Pages use caching, sometimes when repository is updated you may receive errors like
+'Hash Sum mismatch' or '404 Not Found'. Usually, the problem should gone away in ~10 minutes after repository update.
+
 ## Things that have to be done
 Basic (tigervnc, xclock and dependencies):
 - [x] Add architecture 'aarch64'
